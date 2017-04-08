@@ -3,7 +3,8 @@ Module for MagicMirror gets next time of next muni train. Allows for multiple ro
 
 ## Install
 1. git clone this repo into the directory `modules/nextmuni`
-2. run `npm install` in the 
+2. run `npm install` inside the `modules/nextmuni` directory
+3. Update the configuration with your 511 token and stop IDs, as documented below.
 
 ## Config
 ```
